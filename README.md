@@ -85,4 +85,8 @@ Ingin berdiskusi, kolaborasi, atau review project?
 Silakan reach out melalui GitHub atau sosial media saya.
 Saya terbuka untuk ide baru dan peluang kerja sama!
 
+rifkyfaturrachmanpuloo@gmail.com
+https://instagram.com/rifkyfaturpuloo
+https://tiktok.com/@rifkyfaturpuloo
+
 ---
