@@ -12,26 +12,9 @@ Saya dikenal sebagai pribadi yang **teliti, sabar, konsisten, dan selalu haus be
 
 # 🚀 Project Showcase
 
+---
+
 Berikut beberapa project yang telah saya kembangkan:
-
----
-
-## 💰 **MyDompetin**
-
-**Bahasa:** CSS
-**Status:** Public
-
-Aplikasi sederhana yang membantu pengguna **mengatur keuangan pribadi**.
-Dengan MyDompetin, kamu bisa:
-
-* Memahami arus kas masuk/keluar
-* Menjaga batas pengeluaran
-* Mengakses laporan otomatis yang siap dibagikan
-* Mengelola pemasukan dan pengeluaran dengan tampilan simpel dan bersih
-
-✨ *Fokus project: tampilan clean & pengalaman pengguna yang mudah.*
-
----
 
 ## 🧭 **MyJurolas**
 
@@ -67,6 +50,23 @@ Isi website:
 * UI yang menonjolkan identitas sekolah seni
 
 🌟 *Fokus: storytelling visual dan navigasi yang halus.*
+
+---
+
+## 💰 **MyDompetin**
+
+**Bahasa:** CSS
+**Status:** Public
+
+Aplikasi sederhana yang membantu pengguna **mengatur keuangan pribadi**.
+Dengan MyDompetin, kamu bisa:
+
+* Memahami arus kas masuk/keluar
+* Menjaga batas pengeluaran
+* Mengakses laporan otomatis yang siap dibagikan
+* Mengelola pemasukan dan pengeluaran dengan tampilan simpel dan bersih
+
+✨ *Fokus project: tampilan clean & pengalaman pengguna yang mudah.*
 
 ---
 
