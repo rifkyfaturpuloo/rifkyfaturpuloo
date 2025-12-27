@@ -15,15 +15,11 @@
 ---
 
 ## Tentang Saya
+Hai!! Saya Rifky Faturrachman Puloo, seorang Game Developer yang berfokus pada Unity dengan keahlian dalam C# untuk membangun pengalaman bermain yang imersif dan interaktif. Selain itu, saya juga aktif sebagai Website Developer yang sedang memperdalam HTML, CSS, JavaScript, dan React demi menciptakan antarmuka web yang modern, responsif, dan user-friendly.
 
-Hai! Saya **Rifky**, seorang developer yang passionate dalam membangun pengalaman digital yang bermakna.
+Di luar pengembangan teknis, saya bekerja sebagai admin, moderator, dan desainer grafis, serta berperan sebagai data analyst di sebuah launchpad crypto dan crypto influencer. Saya sering membagikan wawasan mengenai blockchain, aset digital, dan tren industri Web3 kepada komunitas.
 
-- **Game Developer** - Unity & C# specialist, menciptakan game yang imersif
-- **Web Developer** - React, JavaScript, dan teknologi frontend modern  
-- **Crypto Enthusiast** - Data Analyst & Influencer di ruang Web3
-- **Creative** - Graphic Designer & Content Creator
-
-> *"Teliti, sabar, konsisten, dan selalu haus belajar"*
+Saya dikenal sebagai pribadi yang teliti, sabar, konsisten, dan selalu haus belajar, dengan semangat kuat untuk memecahkan masalah serta menghadirkan karya yang berkualitas tinggi. GitHub bagi saya adalah ruang untuk bertumbuh, bereksperimen, dan membangun portofolio perjalanan saya di dunia teknologi.
 
 ---
 
