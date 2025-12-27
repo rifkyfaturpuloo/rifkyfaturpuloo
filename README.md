@@ -31,8 +31,7 @@ Hai! Saya **Rifky**, seorang developer yang passionate dalam membangun pengalama
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rifkyfaturpuloo&theme=dark&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=rifkyfaturpuloo&theme=dark&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
 </div>
 
 ---
