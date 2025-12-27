@@ -31,9 +31,9 @@ Hai! Saya **Rifky**, seorang developer yang passionate dalam membangun pengalama
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-nu.vercel.app/api?username=rifkyfaturpuloo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9)
+![GitHub Stats](https://metrics.lecoq.io/rifkyfaturpuloo?base=header%2Crepositories&theme=dark&config.timezone=Asia%2FJakarta)
 
-![Top Languages](https://github-readme-stats-nu.vercel.app/api/top-langs/?username=rifkyfaturpuloo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9)
+![Top Languages](https://metrics.lecoq.io/rifkyfaturpuloo?base=false&plugin_languages=yes&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rifkyfaturpuloo&theme=dark&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
 
