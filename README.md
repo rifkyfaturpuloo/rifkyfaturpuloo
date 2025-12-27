@@ -33,8 +33,6 @@ Hai! Saya **Rifky**, seorang developer yang passionate dalam membangun pengalama
 
 ![GitHub Stats](https://metrics.lecoq.io/rifkyfaturpuloo?base=header%2Crepositories&theme=dark&config.timezone=Asia%2FJakarta)
 
-![Top Languages](https://metrics.lecoq.io/rifkyfaturpuloo?base=false&plugin_languages=yes&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=rifkyfaturpuloo&theme=dark&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
 
 </div>
