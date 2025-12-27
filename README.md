@@ -1,77 +1,45 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rifky%20Fatur%20Puloo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20%7C%20Web%20Developer%20%7C%20Crypto%20Enthusiast&descAlignY=52&descSize=18"/>
+# 🔥 Rifky Faturrachman Puloo
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Immersive+Gaming+Experiences+🎮;Crafting+Modern+Web+Applications+🌐;Exploring+the+Future+of+Web3+🚀;Always+Learning%2C+Always+Growing+📚" alt="Typing SVG" /></a>
+**Game Developer** • **Web Developer** • **Crypto Enthusiast**
 
-<!-- Social Badges -->
-<br/><br/>
-<a href="mailto:rifkyfaturrachmanpuloo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://instagram.com/rifkyfaturpuloo">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://tiktok.com/@rifkyfaturpuloo">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a>
-<a href="https://github.com/rifkyfaturpuloo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Email-FF6B35?style=flat-square&logo=gmail&logoColor=white)](mailto:rifkyfaturrachmanpuloo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-FF6B35?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rifkyfaturpuloo)
+[![TikTok](https://img.shields.io/badge/TikTok-FF6B35?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@rifkyfaturpuloo)
 
-<br/><br/>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=rifkyfaturpuloo&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=rifkyfaturpuloo&color=FF6B35&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Tentang Saya
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+Hai! Saya **Rifky**, seorang developer yang passionate dalam membangun pengalaman digital yang bermakna.
 
-Hai! Saya **Rifky Faturrachman Puloo** 👋
-
-🎮 **Game Developer** dengan fokus pada **Unity & C#** — membangun pengalaman gaming yang imersif dan interaktif
-
-🌐 **Web Developer** yang terus memperdalam **React, JavaScript** dan teknologi frontend modern
-
-💎 **Crypto Enthusiast** — Data Analyst di launchpad crypto & Crypto Influencer aktif
-
-✨ **Sisi lain:** Admin, Moderator, dan Graphic Designer berpengalaman
+- 🎮 **Game Developer** — Unity & C# specialist, menciptakan game yang imersif
+- 🌐 **Web Developer** — React, JavaScript, dan teknologi frontend modern  
+- 💎 **Crypto Enthusiast** — Data Analyst & Influencer di ruang Web3
+- 🎨 **Creative** — Graphic Designer & Content Creator
 
 > *"Teliti, sabar, konsisten, dan selalu haus belajar"*
 
-<br clear="right"/>
-
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifkyfaturpuloo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1"/>
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyfaturpuloo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rifkyfaturpuloo&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&ring_color=FF6B35" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyfaturpuloo&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=FF6B35&text_color=ffffff" height="165"/>
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyfaturpuloo&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyfaturpuloo&hide_border=true&background=1a1a1a&stroke=FF6B35&ring=FF6B35&fire=FF8C00&currStreakLabel=FF6B35&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
 
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifkyfaturpuloo&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -80,14 +48,26 @@ Hai! Saya **Rifky Faturrachman Puloo** 👋
 
 <div align="center">
 
-### 🎮 Game Development
-<img src="https://skillicons.dev/icons?i=unity,cs,blender" />
+**Game Development**
 
-### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,firebase" />
+![Unity](https://img.shields.io/badge/Unity-1a1a1a?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-1a1a1a?style=for-the-badge&logo=blender&logoColor=FF6B35)
 
-### 🎨 Design & Tools
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode" />
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=FF6B35)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=FF6B35)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=FF6B35)
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=FF6B35)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=FF6B35)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=FF6B35)
+![Photoshop](https://img.shields.io/badge/Photoshop-1a1a1a?style=for-the-badge&logo=adobephotoshop&logoColor=FF6B35)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=FF6B35)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=FF6B35)
 
 </div>
 
@@ -95,67 +75,19 @@ Hai! Saya **Rifky Faturrachman Puloo** 👋
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/rifkyfaturpuloo/MyJurolas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifkyfaturpuloo&repo=MyJurolas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-</a>
-<a href="https://github.com/rifkyfaturpuloo/MyRolas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifkyfaturpuloo&repo=MyRolas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-</a>
-
-</div>
-
-<details>
-<summary>📂 <b>Click to see all projects</b></summary>
-<br/>
-
 | Project | Description | Tech |
-|---------|-------------|------|
-| 🧭 **MyJurolas** | Sistem kuis cerdas untuk menemukan jurusan yang cocok di SMKN 12 Surabaya | JavaScript |
-| 🎨 **MyRolas** | Website presentasi SMKN 12 Surabaya - The Real Arts School | HTML/CSS/JS |
-| 💰 **MyDompetin** | Aplikasi manajemen keuangan pribadi dengan UI clean | CSS/JS |
-
-</details>
+|:--------|:------------|:-----|
+| 🧭 **[MyJurolas](https://github.com/rifkyfaturpuloo/MyJurolas)** | Sistem kuis untuk menemukan jurusan yang cocok di SMKN 12 Surabaya | `JavaScript` |
+| 🎨 **[MyRolas](https://github.com/rifkyfaturpuloo/MyRolas)** | Website presentasi SMKN 12 Surabaya - The Real Arts School | `HTML` `CSS` `JS` |
+| 💰 **[MyDompetin](https://github.com/rifkyfaturpuloo/MyDompetin)** | Aplikasi manajemen keuangan pribadi | `CSS` `JS` |
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rifkyfaturpuloo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
----
-
-## 📫 Let's Connect!
+## 🏆 Trophies
 
 <div align="center">
 
-💬 **Open for collaboration, discussion, and new opportunities!**
-
-<br/>
-
-<a href="mailto:rifkyfaturrachmanpuloo@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-6366F1?style=for-the-badge" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=rifkyfaturpuloo&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
 
 </div>
 
@@ -163,9 +95,14 @@ Hai! Saya **Rifky Faturrachman Puloo** 👋
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+### 📬 Let's Connect!
 
-**⭐ From [rifkyfaturpuloo](https://github.com/rifkyfaturpuloo) with 💜**
+**Open for collaboration, discussion, and new opportunities!**
+
+📧 [rifkyfaturrachmanpuloo@gmail.com](mailto:rifkyfaturrachmanpuloo@gmail.com)
+
+---
+
+*Made with 🧡 by Rifky Faturrachman Puloo*
 
 </div>
