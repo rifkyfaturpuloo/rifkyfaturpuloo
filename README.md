@@ -31,7 +31,10 @@ Hai! Saya **Rifky**, seorang developer yang passionate dalam membangun pengalama
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rifkyfaturpuloo&theme=dark&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifkyfaturpuloo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifkyfaturpuloo&theme=dark&hide_border=false)
+
 </div>
 
 ---
@@ -85,6 +88,6 @@ rifkyfaturrachmanpuloo@gmail.com
 
 ---
 
-*Made with orange by Rifky Faturrachman Puloo*
+*Made with by Rifky Faturrachman Puloo*
 
 </div>
