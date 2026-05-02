@@ -27,8 +27,6 @@ Saya dikenal sebagai pribadi yang teliti, sabar, konsisten, dan selalu haus bela
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifkyfaturpuloo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifkyfaturpuloo&theme=dark&hide_border=false)
 
 </div>
@@ -61,16 +59,6 @@ Saya dikenal sebagai pribadi yang teliti, sabar, konsisten, dan selalu haus bela
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **[MyJurolas](https://github.com/rifkyfaturpuloo/MyJurolas)** | Sistem kuis untuk menemukan jurusan yang cocok di SMKN 12 Surabaya | JavaScript |
-| **[MyRolas](https://github.com/rifkyfaturpuloo/MyRolas)** | Website presentasi SMKN 12 Surabaya - The Real Arts School | HTML CSS JS |
-| **[MyDompetin](https://github.com/rifkyfaturpuloo/MyDompetin)** | Aplikasi manajemen keuangan pribadi | CSS JS |
 
 ---
 
