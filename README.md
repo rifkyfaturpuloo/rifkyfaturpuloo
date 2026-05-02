@@ -68,10 +68,6 @@ Saya dikenal sebagai pribadi yang teliti, sabar, konsisten, dan selalu haus bela
 
 **Open for collaboration, discussion, and new opportunities!**
 
-rifkyfaturrachmanpuloo@gmail.com
-
----
-
-*Made with by Rifky Faturrachman Puloo*
+rifkyfaturrachmanpuloo@gmail.com | rifkyfaturpuloo@gmail.com
 
 </div>
